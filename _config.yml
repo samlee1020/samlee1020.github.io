@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 23371057@buaa.edu.cn
 description: "这里是samlee的博客"
 keyword: "samlee"
-url: "" # your host, for absolute URL
+url: "https://samlee1020.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -58,20 +58,6 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
-
-# Disqus settings
-disqus_username: hux
-
-# Netease settings
-netease_comment: false
-
-# Analytics settings
-# Baidu Analytics
-# ba_track_id: [your track id]
-
-# Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
