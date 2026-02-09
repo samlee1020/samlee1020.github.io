@@ -1,16 +1,15 @@
 ---
 layout:       post
-title:        "测试中英文的博客"
-subtitle:     "test for blog in different languages"
-date:         2026-02-09 12:00:00
+title:        "你好，Github Pages！"
+subtitle:     "Hello, Github Pages!"
+date:         2026-02-09 21:30
 author:       "samlee"
-# header-img:   "顶部图片路径"
+header-img:   "img/in_post/2026-02-09-test_for_blog/header.jpg"
 header-mask:  0.3 # 页面标题阴影占比
 catalog:      true # 是否显示目录
 multilingual: true # 是否启用多语言选项
 tags:
-    - test_tag1
-    - test_tag2
+    - 感受
 ---
 
 <!-- Chinese Version -->
