@@ -9,7 +9,8 @@ header-mask:  0.3 # 页面标题阴影占比
 catalog:      true # 是否显示目录
 multilingual: true # 是否启用多语言选项
 tags:
-    - test
+    - test_tag1
+    - test_tag2
 ---
 
 <!-- Chinese Version -->
