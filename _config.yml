@@ -79,4 +79,5 @@ page-mathjax: false
 friends:
   [
     # { title: "链接标题", href: "链接网址" },
+    { title: "samlee的b站", href: "https://space.bilibili.com/551313036" }
   ]
