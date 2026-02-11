@@ -5,7 +5,7 @@ subtitle:     "Feelings of Wuthering Waves 3.1"
 date:         2026-02-12 01:00
 author:       "samlee"
 header-img:   "img/in_post/2026-02-12-feelings_of_wuwa/header.jpeg"
-header-mask:  0.3 
+header-mask:  0.5
 catalog:      false 
 multilingual: false 
 tags:
