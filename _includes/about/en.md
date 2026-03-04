@@ -1,6 +1,6 @@
 # This is the English version of introduction of samlee's blog!
 
-Welcome to my blog! I am a bad luck [BUAA](https://www.buaa.edu.cn/) CS student. I have neither outstanding grades nor exceptional ablities, staying far from researches and competitions., just being deeply troubled by the dilemma of where to go after graduating from college.
+Welcome to my blog! I am a [BUAA](https://www.buaa.edu.cn/) CS student with bad luck. I have neither outstanding grades nor exceptional ablities, staying far from researches and competitions, just being deeply troubled by the dilemma of where to go after graduating from college.
 
 But life must go on. No matter what, I am walking on my own path in life, and I always look forward to a better tomorrow.
 
